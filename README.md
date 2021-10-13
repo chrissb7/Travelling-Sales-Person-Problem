@@ -1,6 +1,6 @@
 # Travelling-Sales-Person-Problem
 
-This project was based on the Travelling Sales Person problem. An algorithm is developed in order to find out the most efficient route a sales person can take, given a number of locations. In the case of this algorithm a list of 100 orders is inputed (please look at accompaying 100Orders.txt file, copy and paste all into the console). 
+This project was based on the Travelling Sales Person problem (https://en.wikipedia.org/wiki/Travelling_salesman_problem). An algorithm is developed in order to find out the most efficient route a sales person can take, given a number of locations. In the case of this algorithm a list of 100 orders is inputed (please look at accompaying 100Orders.txt file, copy and paste all into the console). 
 
 Breaking up the first order which is numbered 1 (see 100Orders.txt file):
 
