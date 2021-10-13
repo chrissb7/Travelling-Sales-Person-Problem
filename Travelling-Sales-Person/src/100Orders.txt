@@ -1,4 +1,3 @@
-0,3 Mill St Maynooth,0,53.38197,-6.59274
 1,38 Parsons Hall Maynooth ,4,53.37521,-6.6103
 2,34 Silken Vale Maynooth ,6,53.37626,-6.59308
 3,156 Glendale Leixlip ,18,53.37077,-6.48279
