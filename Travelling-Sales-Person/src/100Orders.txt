@@ -1,0 +1,101 @@
+0,3 Mill St Maynooth,0,53.38197,-6.59274
+1,38 Parsons Hall Maynooth ,4,53.37521,-6.6103
+2,34 Silken Vale Maynooth ,6,53.37626,-6.59308
+3,156 Glendale Leixlip ,18,53.37077,-6.48279
+4,33 The Paddocks Oldtown Mill Celbridge ,8,53.3473,-6.55057
+5,902 Lady Castle K Club Straffan ,11,53.31159,-6.60538
+6,9 The Park Louisa Valley Leixlip ,3,53.36115,-6.48907
+7,509 Riverforest Leixlip ,10,53.37402,-6.49363
+8,16 Priory Chase St.Raphaels Manor Celbridge ,7,53.33886,-6.55468
+9,13 Abbey Park Court Clane,13,53.2908,-6.67746
+10,117 Royal Meadows Kilcock ,12,53.39459,-6.66995
+11,7 Riverlawn Abbeyfarm Celbridge ,3,53.33239,-6.55163
+12,10 Fair Green Court Kilccock ,7,53.39847,-6.66787
+13,11 The Lodge Abbeylands Clane,12,53.29128,-6.67836
+14,628 Riverforest Leixlip ,5,53.37416,-6.49731
+15,12 Castlevillage Avenue Celbridge ,8,53.35298,-6.54921
+16,116 Connaught Street Kilcock ,4,53.39839,-6.66767
+17,44 Rinawade Avenue Leixlip ,20,53.36141,-6.51834
+18,35 Beech Park Wood Beech Park Leixlip ,14,53.36287,-6.52468
+19,96 Priory Lodge St. Raphael's Manor Celbridge ,2,53.33835,-6.53984
+20,33 Leinster Wood Carton Demesne Maynooth ,7,53.39351,-6.5542
+21,6 Glen Easton View Leixlip ,15,53.36883,-6.51468
+22,40 Oaklawn West. Leixlip ,8,53.36833,-6.50589
+23,169 Glendale Leixlip ,24,53.37043,-6.48193
+24,14 The Rise Louisa Valley Leixlip ,15,53.36115,-6.48907
+25,28 The Lawn Moyglare Abbey Maynooth ,7,53.38895,-6.60579
+26,43 The Woodlands Castletown Celbridge ,12,53.34678,-6.53415
+27,14 Rye River Crescent Dun Carraig Leixlip ,8,53.36518,-6.48913
+28,32 The View St.Wolstan Abbey Celbridge ,10,53.33751,-6.53173
+29,20 Habourview The Glenroyal Centre Maynooth ,9,53.37954,-6.58793
+30,416A Ballyoulster Celbridge ,5,53.34133,-6.51856
+31,10 Brookfield Avenue Maynooth ,8,53.36976,-6.59828
+32,15 Willow Rise Primrose Gate Celbridge ,19,53.33591,-6.53566
+33,3 Lyreen Park Maynooth ,26,53.38579,-6.58673
+34,2 Beaufield Drive Maynooth ,10,53.37414,-6.60028
+35,28 The Avenue Castletown Celbridge ,18,53.34514,-6.53615
+36,4 Abbey Park Grove Clane ,14,53.29206,-6.67685
+37,78 Crodaun Forest Park Celbridge ,15,53.35401,-6.54603
+38,1 Kyldar House Manor Mills Maynooth ,29,53.38122,-6.59226
+39,1002 Avondale Leixlip ,22,53.36869,-6.48314
+40,18 College Green Maynooth ,5,53.37247,-6.60044
+41,Simmonstown,10,53.329586,-6.548343
+42,Windgates,4,53.338812,-6.602588
+43,Blakestown,17,53.376309,-6.538387
+44,Laragh Co. Kildare,23,53.377538,-6.664386
+45,Stacumny Cottage Co. Kildare,11,53.334712,-6.500621
+46,Corbally Co. Kildare,7,53.348855,-6.590229
+47,Celbridge Abbey Celbridge Co. Kildare,1,53.337992,-6.539760
+48,Bogganstown Co. Meath,0,53.396376,-6.534610
+49,Barreen Co. Kildare,24,53.347421,-6.675716
+50,Wheatfield Upper Co. Kildare,2,53.301077,-6.572376
+51,Moneycooly Co. Kildare,13,53.364587,-6.582012
+52,Crinstown Co. Kildare,41,53.374215,-6.629734
+53,Longtown Co. Kildare,9,53.314365,-6.639004
+54,Crippaun Co. Kildare,8,53.339381,-6.597462
+55,Leixlip Co. Kildare,20,53.362129,-6.500988
+56,Branganstown Co. Kildare,3,53.395511,-6.656513
+57,St. Wolstans Co. Kildare,13,53.341226,-6.521587
+58,Catherinestown Co. Kildare,19,53.390597,-6.542530
+59,Crinstown Co. Kildare,20,53.372576,-6.633511
+60,Cornerpark Co. Dublin,15,53.302467,-6.500645
+61,Raheen Co. Kildare,11,53.338971,-6.660633
+62,Oldtown Co. Kildare,2,53.343685,-6.560040
+63,Collegeland Co. Kildare,1,53.374420,-6.605701
+64,Johninstown Co. Kildare,30,53.336921,-6.643124
+65,Doddsborough Co. Dublin,3,53.350654,-6.471806
+66,Gragadder Co. Kildare,5,53.385069,-6.655483
+67,Cappaghcreen Co. Meath,7,53.395511,-6.491375
+68,Straleek Co. Kildare,16,53.323184,-6.525364
+69,Newtownlaragh Co. Kildare,22,53.361719,-6.669216
+70,Maynooth South Co. Kildare,5,53.381383,-6.613598
+71,Crodaun Co. Kildare,9,53.354957,-6.545963
+72,Friarstown Co. Kildare,11,53.314570,-6.574459
+73,Rinawade Upper Co. Kildare,7,53.362948,-6.530857
+74,Aderrig Co. Dublin,2,53.342661,-6.487598
+75,Corbally Co. Kildare,1,53.348809,-6.590939
+76,Donaghstown Co. Kildare,2,53.361104,-6.620121
+77,Confey Co. Kildare,23,53.380154,-6.496525
+78,Kealstown Co. Kildare,10,53.353728,-6.641407
+79,Moortown Co. Kildare,30,53.357621,-6.561069
+80,Leixlip Co. Kildare,18,53.363358,-6.493092
+81,Lodgepark Church View Co. Kildare,1,53.307596,-6.612568
+82,Kellystown Co. Kildare,0,53.381793,-6.524677
+83,Lucan Demesne Co. Dublin,5,53.360694,-6.476955
+84,Kilmacredock Lower Co. Kildare,19,53.367250,-6.545620
+85,Maynooth Co. Kildare,13,53.383431,-6.588192
+86,Westmanstown Co. Dublin,26,53.304518,-6.482792
+87,Coolfitch Co. Kildare,7,53.317852,-6.547337
+88,Capdoo Commons Co. Kildare,3,53.297543,-6.678486
+89,Blakestown Co. Kildare,27,53.377492,-6.538410
+90,Maws Co. Kildare,14,53.389983,-6.640377
+91,Raheen Old Co. Kildare,19,53.344300,-6.677799
+92,Tobermaclugg Co. Dublin,2,53.343890,-6.483479
+93,Treadstown Co. Kildare,4,53.376877,-6.649990
+94,Westmanstown Co. Dublin,6,53.303082,-6.482105
+95,Donaghcumper Co. Kildare,19,53.343275,-6.536350
+96,Posseckstown Co. Kildare,8,53.336101,-6.592655
+97,Elmhall Co. Kildare,23,53.328515,-6.517811
+98,Backweston Park Co. Kildare,1,53.351474,-6.503048
+99,Ladycastle Lower Co. Kildare,11,53.303082,-6.637974
+100,Newcastle Farm Co. Dublin,5,53.299594,-6.526737
